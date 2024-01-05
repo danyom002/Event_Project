@@ -1,4 +1,4 @@
-package blazeskills.com.example.playforevents;
+package blazeskills.com.example.playforevents.Configs;
 
 public enum UserType {
     ORGANISER, ATTENDEE,

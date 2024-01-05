@@ -1,6 +1,8 @@
-package blazeskills.com.example.playforevents;
+package blazeskills.com.example.playforevents.Configs;
 
-// @Component
+import org.springframework.stereotype.Component;
+
+@Component
 public class SpecialClass {
 
 }

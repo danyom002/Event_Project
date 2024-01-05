@@ -1,4 +1,4 @@
-package blazeskills.com.example.practiseprojectforevent.Services;
+package blazeskills.com.example.playforevents.Services;
 
 import org.springframework.stereotype.Repository;
 
