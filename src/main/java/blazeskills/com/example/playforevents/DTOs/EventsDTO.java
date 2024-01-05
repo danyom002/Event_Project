@@ -21,5 +21,6 @@ public class EventsDTO {
     private LocalDateTime eventDate;
     private LocalDateTime created_date;
     private LocalDateTime updated_date;
+    private LocalDateTime dated;
 
 }
